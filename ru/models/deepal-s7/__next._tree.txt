@@ -1,0 +1,7 @@
+:HL["/arly-tech-lab/_next/static/chunks/1ov7ttux2huds.css","style"]
+:HL["/arly-tech-lab/_next/static/media/2dfa23f74893c739-s.p.0k69tc5hne9fd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/arly-tech-lab/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/arly-tech-lab/_next/static/media/9c72aa0f40e4eef8-s.p.1y4-pdgsjb-pw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/arly-tech-lab/_next/static/media/fe83cf2ab39e9c57-s.p.2qpii4b6jmzj9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/arly-tech-lab/uploads/cars/ad4b0e7be12a-1600.webp","image",{"imageSrcSet":"/arly-tech-lab/uploads/cars/ad4b0e7be12a-800.webp 800w, /arly-tech-lab/uploads/cars/ad4b0e7be12a-1600.webp 1600w","imageSizes":"(min-width: 1024px) 640px, 95vw"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"locale","param":{"type":"d","key":"ru","siblings":[]},"prefetchHints":4144,"slots":{"children":{"name":"models","param":null,"prefetchHints":4160,"slots":{"children":{"name":"slug","param":{"type":"d","key":"deepal-s7","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"mRxIGBTbYG6dYIdiGPs5c"}
